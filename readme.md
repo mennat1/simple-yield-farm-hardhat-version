@@ -4,7 +4,7 @@
   
 ## Workflow:
 - Stake Tokens
-- Accrue interest of 1 DAI for each staked ERC20 token for each day staked
+- Accrue interest of 1 ERC20/Flux Token for each staked ERC20/DAI token for each day staked
 - withdraw yield to receive accrued interest
 - unstake tokens to recieve back your staked DAI
 
