@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/mnaga/Downloads/blockchain/flux/hardhat_version/contracts/Escrow.sol": {
-      "lastModificationDate": 1640465458949,
-      "contentHash": "c18ac7e4dbf3631b4b71f29fb4c135c3",
+      "lastModificationDate": 1640466687103,
+      "contentHash": "d0bef1401b60462615ba4581ce78378e",
       "sourceName": "contracts/Escrow.sol",
       "solcConfig": {
         "version": "0.8.4",

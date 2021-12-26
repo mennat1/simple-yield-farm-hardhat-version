@@ -69,7 +69,6 @@ contract Escrow {
         uint256 accruedYield = calculateTotalYield(msg.sender);
         startTime[msg.sender] = block.timestamp; 
         stakingBalance[msg.sender] -= amount;
-        // daiToken.transfer(msg.sender, amount);
         fluxTokenBalance[msg.sender] += accruedYield;
         if(stakingBalance[msg.sender] == 0){
             isStaking[msg.sender] = false;
